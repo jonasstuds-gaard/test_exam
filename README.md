@@ -1,2 +1,1 @@
-
-Hello from CONFLICT_BRANCH 
+Hello From MAIN branch. 
